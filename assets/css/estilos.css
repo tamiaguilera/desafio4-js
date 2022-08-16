@@ -3,7 +3,7 @@
 }
 
 body{
-    background: #b4b4b4;
+    background: #018087;
     color: white;
     display: grid;
     grid-template-columns: 3fr 10fr;
@@ -12,7 +12,7 @@ body{
 
 nav{
     padding: 20px 15%; 
-    border-right: solid 1px white;
+    border-right: solid 1px rgb(253, 242, 242);
     height:100vh
 }
 
